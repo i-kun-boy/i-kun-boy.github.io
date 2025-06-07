@@ -4008,7 +4008,7 @@ h1.page-title + .tag-cloud-list {
   position: absolute;
   top: calc(50% - 7px);
   color: #000;
-  content: '\f120';
+  content: '\f233';
   line-height: 1;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
